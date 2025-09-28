@@ -11,7 +11,7 @@
 ## 🌱 About Me
 
 - I love to sleep 😴 and pray that the code gets fixed somehow 🙏💻
-- Proud creator of [BioVech](https://github.com/skander101/BioVech)
+- Proud tam leader of QT Project [BioVech](https://github.com/skander101/BioVech)
 - Currently exploring more projects in [SymfonyLearning](https://github.com/skander101/SymfonyLearning) and [EduQuest](https://github.com/skander101/EduQuest)
 
 ---
