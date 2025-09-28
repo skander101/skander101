@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills
 
-- **Languages:** C, C++, Java
+- **Languages:** C, C++, Java, Python
 - **Projects:** BioVech, SymfonyLearning, EduQuest
 
 ---
